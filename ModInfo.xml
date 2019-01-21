@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<xml>
+    <ModInfo>
+        <Name value="weelillad_CloneModSchematics" />
+        <Description value="Adds recipes that allow mod schematics to be cloned using one piece of paper. No skill requirements, since you're just tracing another copy of the same thing." />
+        <Author value="weelillad" />
+        <Version value="1.0.0" />
+    </ModInfo>
+</xml>
